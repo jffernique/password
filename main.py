@@ -1,7 +1,7 @@
 from random import choice
 import clipboard
 digits = '0123456789'
-chars = 'a8cd3fgh1jk1mn0pqrstuvwxyz'
+chars = 'abcdefgh1jkmn0pqrstuvwxyz'
 up = chars.upper()
 specials = '!@$%&'
 All = digits + chars + up + specials
